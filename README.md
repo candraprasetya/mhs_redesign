@@ -106,4 +106,4 @@ Candra Prasetya - [@candraramesthy](https://instagram.com/candraramesthy)
 
 Project Link: [https://github.com/candraprasetya/mhs_redesign](https://github.com/candraprasetya/mhs_redesign)
 
-[product-screenshot]: screenshot/screenshot.png
+[product-screenshot]: screenshot.png
