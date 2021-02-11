@@ -48,7 +48,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://kardusinfo.com)
 
-This project is the process of making a flutter application from the UI design that has been made, namely the meme generator.
+Applications that are intended for teaching materials make responsive design applications using flutter.
 
 ### Built With
 
