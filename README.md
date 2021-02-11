@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/candraprasetya/mhs_redesign">
-    <img src="assets/logo.png" alt="Logo" height="80">
+    <img src="assets/images/amikom.png" alt="Logo" height="80">
   </a>
 
   <h3 align="center">Redesign - Amikom University Student Dashboard</h3>
